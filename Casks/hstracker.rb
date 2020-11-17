@@ -17,7 +17,6 @@ cask "hstracker" do
     "~/Library/Caches/HSTracker",
     "~/Library/Caches/net.hearthsim.hstracker",
     "~/Library/Cookies/net.hearthsim.hstracker.binarycookies",
-    "~/Library/Cookies/net.hearthsim.hstracker.binarycookies_tmp_476_0.dat",
     "~/Library/Logs/HSTracker",
     "~/Library/Preferences/net.hearthsim.hstracker.plist",
     "~/Library/Saved Application State/net.hearthsim.hstracker.savedState",
